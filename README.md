@@ -14,6 +14,24 @@ A aplicação foi feita baseada num protótipo de alta fidelidade criado no [fig
 
 Link: https://ahead-lettuce.surge.sh
 
+
+<p>
+Tecnologias utilizadas:
+<ul>
+<li>HTML, 
+<li>CSS, 
+<li>JavaScript, 
+<li>CSS, 
+<li>React, 
+<li>hooks (useState e useEffect), 
+<li>styled-components,
+<li>integração de API com Axios, 
+<li>React Router
+<li>React Context
+</ul>
+</p>
+
+
 Nome dos integrantes: 
 - Carolina Fortuna
 - Andrei Souza Santos
@@ -21,6 +39,8 @@ Nome dos integrantes:
 
 
 
+![image](https://user-images.githubusercontent.com/63572811/188541632-629755be-378e-43bc-ad6c-90cc7acd7be3.png)
+![image](https://user-images.githubusercontent.com/63572811/188541692-daf59996-4bb8-4489-81fe-813f5d6b1db9.png)
 
 
 
